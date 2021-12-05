@@ -1,4 +1,4 @@
-# HW2 - Create GCP Instance from scratch and mongo v5.0 install:
+# HW2 - Create GCP Instance from scratch and mongodb v5.0 install:
 
 1. [GCP] Create New Project:
 My First Project --> New Project --> Select New Project
